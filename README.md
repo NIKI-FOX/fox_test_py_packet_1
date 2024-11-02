@@ -1,6 +1,6 @@
 # Mein Paket
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/deinbenutzername/mein_paket/releases)
+[![Version](https://img.shields.io/github/v/release/NIKI-FOX/fox_test_py_packet_1?label=latest)](https://github.com/NIKI-FOX/fox_test_py_packet_1/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Beschreibung
